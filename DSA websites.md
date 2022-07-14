@@ -90,11 +90,3 @@ Also try [Competitive Programmer’s Handbook](https://cses.fi/book.pdf) for tip
 * https://www.codechef.com/certification/data-structures-and-algorithms/prepare
 * https://teachyourselfcs.com/
 * https://www.geeksforgeeks.org/how-can-one-become-good-at-data-structures-and-algorithms-easily/
-
-
-<br>
-
-## LICENSE
-Copyright (c) **DSC KIIT**. All rights reserved. Licensed under the MIT License
-
-[![](https://img.shields.io/github/license/junaidrahim/desiresalesportal?style=for-the-badge)](LICENSE)
